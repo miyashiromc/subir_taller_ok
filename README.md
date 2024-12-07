@@ -10,6 +10,6 @@
 
 <div align="center">
   <h3>Login Activity</h3>
-  <img src="https://github.com/user-attachments/assets/3795442a-e2f5-4c0c-86a4-7b6f8fbaab27" width="500"/>
+  <img src="https://github.com/user-attachments/assets/ea9500cc-b80f-4977-a906-dc46d21eed36" width="500"/>
   <p style="text-align: justify;">En esta imagen se muestra el Login Activity, donde los usuarios ingresan sus credenciales para acceder a la aplicación.</p>
 </div>
